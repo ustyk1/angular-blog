@@ -1,0 +1,7 @@
+@use "../../../../../assets/variables/variables.scss" as vars;
+
+.admin {
+  &__navbar {
+    background-color: vars.$primary-color; 
+  }
+}
