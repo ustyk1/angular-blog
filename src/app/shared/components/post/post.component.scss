@@ -1,4 +1,4 @@
-.post {
+.card {
   max-width: 600px;
   margin: 0.7rem auto;
   padding: 1rem;
@@ -8,10 +8,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-  }
-  
-  &__content {
-    margin-bottom: .5rem;
   }
 
   &__author {

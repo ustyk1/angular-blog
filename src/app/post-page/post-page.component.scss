@@ -1,0 +1,25 @@
+.post {
+  margin: 0.7rem auto;
+  padding: 1rem;
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .header {
+    margin-bottom: 0.5rem;
+  }
+  
+  &__content {
+    margin-bottom: .5rem;
+  }
+
+  .info {
+    margin-bottom: 0.2rem;
+    &__author {
+      margin-right: 1rem;
+    }
+  }
+}
